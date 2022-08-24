@@ -1,5 +1,5 @@
   <!-- form start -->
- <body style="background-color:grey;">
+ <body style="background-image: url('img_girl.jpg');">
   <form class="form-class">
 
     <!-- Name -->
