@@ -1,4 +1,5 @@
   <!-- form start -->
+ <body style="background-color:grey;">
   <form class="form-class">
 
     <!-- Name -->
@@ -433,3 +434,4 @@
   <!-- form ends -->
 </div>
 <!-- form container ends -->
+</body>
