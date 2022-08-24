@@ -1,5 +1,5 @@
   <!-- form start -->
- <body style="background-image: url('img_girl.jpg');">
+ <body style="background-image:https://www.freepik.com/free-photos-vectors/background;">
   <form class="form-class">
 
     <!-- Name -->
