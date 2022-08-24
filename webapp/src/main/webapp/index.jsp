@@ -45,7 +45,7 @@ border: 7px solid red;
 }
 </style>
 </head>
-<body style="color:MediumSeaGreen;>
+<body>
 <!--Let us create a simple menu using the navigation tags-->
 <!--Use header to indicate that manu will be a part of header -->
 <header>
