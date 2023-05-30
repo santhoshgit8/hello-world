@@ -4,7 +4,6 @@ services:
     build:
       context: .
       dockerfile: ./Dockerfile
-    image: santhosh127/gllogic:hello
     ports:
     - 9090:9090
     container_name: app1
