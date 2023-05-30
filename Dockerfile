@@ -4,6 +4,6 @@
 #MAINTAINER "valaxytech@gmail.com" 
 #COPY ./webapp/target/webapp.war /usr/local/tomcat/webapps
 FROM openjdk:11-jre-slim
-ADD ./target/webapp.war /usr/src/webapp.war
+ADD ./webapp/target/webapp.war /usr/src/webapp.war
 WORKDIR usr/src
 ENTRYPOINT ["java","-jar", "webapp.war"]
